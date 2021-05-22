@@ -1,1 +1,3 @@
 new file created
+now working through vs code
+seeing how o comment on each single line
